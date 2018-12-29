@@ -1,5 +1,6 @@
 # MatrixFactorization
 矩阵分析课程的小作业
+`NMF_Factorization`是非负矩阵分解的作业
 
 ## 程序说明:
 
